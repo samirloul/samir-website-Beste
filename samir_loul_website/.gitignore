@@ -1,0 +1,12 @@
+# Ignore environment files
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Node modules (indien je ooit Node gebruikt)
+node_modules/
