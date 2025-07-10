@@ -10,3 +10,6 @@ Thumbs.db
 
 # Node modules (indien je ooit Node gebruikt)
 node_modules/
+
+.vscode/
+samir_loul_website.zip
